@@ -3,7 +3,7 @@ Formules de politesses
 
 ## Dependencies
 
-(NPM & NodeJs)[https://docs.npmjs.com/getting-started/installing-node]
+[NPM & NodeJs](https://docs.npmjs.com/getting-started/installing-node)
 
 ## Run it
 
