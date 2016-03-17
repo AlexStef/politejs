@@ -1,0 +1,22 @@
+{
+  "name": "politejs",
+  "version": "1.0.0",
+  "description": "Formules de politesse",
+  "main": "polite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexStef/politejs.git"
+  },
+  "author": "alexstef",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexStef/politejs/issues"
+  },
+  "homepage": "https://github.com/AlexStef/politejs#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
